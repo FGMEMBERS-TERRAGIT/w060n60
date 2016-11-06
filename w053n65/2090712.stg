@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Airport/ndb.ac -52.921003 65.406667 -0.01 180
+OBJECT_SHARED Models/Airport/ndb.ac -52.908056 65.420278 -0.01 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -52.930039 65.411636 -0.01 180
+OBJECT_STATIC Sukkertoppen_Lighthouse.xml -52.886112 65.423444 -0.02 0
