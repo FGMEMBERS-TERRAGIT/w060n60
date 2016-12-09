@@ -2,3 +2,13 @@ OBJECT_SHARED Models/Airport/ndb.ac -52.921003 65.406667 -0.01 180
 OBJECT_SHARED Models/Airport/ndb.ac -52.908056 65.420278 -0.01 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -52.930039 65.411636 -0.01 180
 OBJECT_STATIC Sukkertoppen_Lighthouse.xml -52.886112 65.423444 -0.02 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -52.93899 65.41188 -0.01 52.4326
+OBJECT_SHARED Models/lib/lamp10m.xml -52.93984 65.41215 -0.01 1.21893
+OBJECT_SHARED Models/lib/lamp10m.xml -52.93980 65.41220 -0.01 -41.5329
+OBJECT_SHARED Models/lib/lamp10m.xml -52.93951 65.41236 -0.01 -5.38956
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -52.94015 65.41231 -0.01 323.475
+OBJECT_SHARED Models/lib/fboModern1.ac -52.93939 65.41189 -0.01 52.7832
+# END dsf2stg
