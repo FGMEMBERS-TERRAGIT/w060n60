@@ -1,2 +1,3 @@
 OBJECT_SHARED Models/Airport/ils.xml -50.682072 67.018506 48.11 241.6
 OBJECT_SHARED Models/Communications/vordme_1.xml -50.682322 67.0187 51.73 180
+OBJECT_SHARED Models/Aircraft/c130-herc-obj1.xml -50.704415 67.010797 55.01 0
