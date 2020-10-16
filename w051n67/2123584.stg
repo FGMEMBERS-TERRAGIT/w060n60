@@ -97,3 +97,4 @@ OBJECT_SHARED Models/lib/HorizTanks2.ac -50.69660 67.01884 74.93 208.45
 OBJECT_SHARED Models/lib/HorizTanks2.ac -50.69650 67.01877 74.89 208.45
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -50.70480 67.00943 57.88 27.51
 # END dsf2stg
+OBJECT_SHARED Models/Aircraft/c130-herc-obj1.xml -50.704415 67.010797 55.01 0
